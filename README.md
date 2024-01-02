@@ -14,7 +14,7 @@
 <h4>State Management</h4>
 <p>The application utilizes React Hooks for state management. The key states are:</p>
 <ul>
-  <li>city:tores the user input for the city</li>
+  <li>city:stores the user input for the city</li>
   <li>weatherData:Holds the fetched weather data from the API</li>
   <li>isBackgroundBlack:Controls the background color toggle</li>
 </ul>
